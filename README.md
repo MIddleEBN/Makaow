@@ -1,0 +1,1 @@
+Makaow is South Africa’s answer to global e-commerce giants—built on faith, dignity, and generational purpose. This ceremonial app empowers buyers to design, vote, and own the products they wear, while uplifting local creators and restoring the Colored nation’s creative economy.
