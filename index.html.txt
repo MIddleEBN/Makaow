@@ -26,8 +26,9 @@
 <body>
   <h1>🛡️ Welcome to Middle EBN</h1>
   <p>This is Makaow’s ceremonial gateway.</p>
-  <p><a href="https://middleebn.github.io/MAKAOW-WOXI/">Enter the Covenant Site</a></p>
+  <p><a href="https://middleebn.github.io/Middle-EBN/home.html/">Enter the Covenant Site</a></p>
 </body>
 
 </html>
+
 
