@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!-- index.html -->
+<form id="covenantForm">
+  <h2>Enter Makaow’s Movement</h2>
+  <input type="text" placeholder="Your Name" required />
+  <input type="email" placeholder="Email" required />
+  
+  <div class="terms">
+    <h3>Covenant Terms</h3>
+    <p>By entering, you agree to Makaow’s legacy-driven doctrine...</p>
+  </div>
+  
+  <label>
+    <input type="checkbox" id="agree" required />
+    I accept Makaow’s Covenant Terms
+  </label>
+  
+  <button type="submit">Enter</button>
+</form>
+
+<script>
+  document.getElementById('covenantForm').addEventListener('submit', function(e) {
+    e.preventDefault();
+    if (document.getElementById('agree').checked) {
+      sessionStorage.setItem('makaowAccepted', 'true');
+      window.location.href = 'home.html'; // or your next page
+    } else {
+      alert('You must accept the covenant to proceed.');
+    }
+  });
+</script>
