@@ -14,7 +14,7 @@
     }
     h1 {
       font-size: 2.5em;
-      margin-bottom: 0.5em;
+      margin-bottom: 0.5em;https://middleebn.github.io/Middle-EBN/home.html
     }
     a {
       color: #00ffcc;
@@ -26,6 +26,7 @@
 <body>
   <h1>🛡️ Welcome to Middle EBN</h1>
   <p>This is Makaow’s ceremonial gateway.</p>
-  <p><a href="https://sites.google.com/view/middleebn">Enter the Covenant Site</a></p>
+  <p><a href="https://middleebn.github.io/Middle-EBN/home.html">Enter the Covenant Site</a></p>
 </body>
+
 </html>
